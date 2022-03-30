@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaphaelAlcantara
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning Analysis and Systems Development
-- 💞️ I’m looking to collaborate on Front-END
+- 💞️ I’m looking to collaborate on JAVA
 - 📫 How to reach me https://www.instagram.com/rapha_rramos/
 
 <!---
