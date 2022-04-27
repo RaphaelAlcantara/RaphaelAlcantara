@@ -15,7 +15,7 @@
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rapha-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/8U8f5hV.png"> 
+  <img align="right" alt="Rapha-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/rapha/Desktop/Avatar-Maker%20(4).svg"> 
 </div>  
   
   ##
