@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Raphael Alcantara
-- 👀 I’m interested in web developer
+- 👀 I am currently a developer in the java language
 - 👨‍🎓 I’m currently learning Analysis and Systems Development
 - 💻 I currently work with JAVA at Philips
 
