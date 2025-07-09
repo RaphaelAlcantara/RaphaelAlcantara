@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Raphael Alcantara
 - 👀 I am currently a developer in the java language
-- 👨‍🎓 I’m currently learning Analysis and Systems Development
-- 💻 I currently work with JAVA at Philips
+- 👨‍🎓 I have a degree in Systems Analysis and Development.
+- 💻 I currently work with Data Analisys at Philips
 
 <div align="center">
   <a href="https://github.com/RaphaelAlcantara">
