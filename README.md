@@ -31,4 +31,5 @@
   
 ## GitHub Contribution Snake
 
-![snake gif](https://github.com/RaphaelAlcantara/RaphaelAlcantara/.github/workflows/cobrinha.yml)
+![snake gif](https://raw.githubusercontent.com/RaphaelAlcantara/RaphaelAlcantara/output/github-contribution-grid-snake.svg)
+
