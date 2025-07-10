@@ -31,5 +31,5 @@
   
 ## GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/RaphaelAlcantara/RaphaelAlcantara/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
