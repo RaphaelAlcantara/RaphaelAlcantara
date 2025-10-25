@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rapha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rapha-Csharp" height="30" width="40" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
   <img align="center" alt="Rapha-Python" height="30" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
   <img align="center" alt="Rapha-Pandas" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s">
