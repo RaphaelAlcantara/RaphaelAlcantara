@@ -14,7 +14,6 @@
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
   <img align="center" alt="Rapha-Pandas" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s">
   <img align="center" alt="Rapha-Pytorch" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1280/0*pPdBG_V4Ye9Qq-hS">
-  <img align="center" alt="Rapha-Sckit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png">
   <img align="center" alt="Rapha-PLSQL" height="30" width="40" src="https://i.imgur.com/DxRkKwU.png">
   <img align="center" alt="Rapha-bricks" height="30" width="40" src="https://logowik.com/content/uploads/images/databricks6383.jpg">
   
